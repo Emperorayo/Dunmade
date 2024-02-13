@@ -26,7 +26,7 @@
 
 .side {
    background:#eee;
-   height:1000px;
+   height: 1000px;
    width:400px;
 /*    border:1px solid red; */
    padding:10px;
@@ -46,9 +46,9 @@ body {
    align-items: center;
    justify-content: center;
    height: 100vh;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   background-color: #000000;
-   
+   font-family: 'Century Gothic', cursive;
+   background-color: #f1e3d3;
+  
  }
  
  .valentines-day {
